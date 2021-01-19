@@ -2,7 +2,7 @@ export const data = [
     {
         "title": "Acrux-Hospital",
         "desc": "Site that let patients make an appointment with a doctor and communicate with him.  Also for doctor role it provides doctors the appility to accept the appointment or not, and with machine learning, there is two models that forcast the result of 2 types of diseases",
-        "image": "https://m0moooz-portfolio.netlify.app/assets/acrux.c155b1c3a3af79e20962a55bde8297ed.jpg",
+        "image": "https://cdn.discordapp.com/attachments/762737273590382623/801083744558907462/unknown.png",
         "link": "https://acrux-hospital.herokuapp.com/",
         "git": "https://github.com/ACRUX-Hospital/ACRUX-Hospital-django",
         "logo": "https://acruxlatam.com/images/logo-acrux-md.png",
@@ -58,7 +58,7 @@ export const data = [
     {
         "title": "Falcons-Skyscanner",
         "desc": "MERN Stack Application with JWT authentication, that uses live search api to get country’s airports and flighting search api to get flighting tickets, it allows the user to checkout for tickets, and then Buy it using his credit card, there is a history page for paid user’s tickets too, to let him see his travelling details",
-        "image": "https://m0moooz-portfolio.netlify.app/assets/falcons.3ac29de416e69c576b45d01344e55277.jpg",
+        "image": "https://cdn.discordapp.com/attachments/762737273590382623/801083438702526565/unknown.png",
         "link": "https://falcons-scanner.herokuapp.com/",
         "git": "https://github.com/Moumenh/Falcons-skyscanner",
         "logo": "https://www.falconltd.co.nz/wp-content/uploads/2019/06/Falcon_logo_trans.png",
