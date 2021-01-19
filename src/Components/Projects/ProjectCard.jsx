@@ -4,7 +4,7 @@ import Fade from 'react-reveal/Fade';
 // import YouTubeIcon from '@material-ui/icons/YouTube';
 
 const ProjectCard = ({ project }) => {
-    console.log(project)
+    // console.log(project)
 
     return (
         <div className='project'>
@@ -17,7 +17,7 @@ const ProjectCard = ({ project }) => {
             <Fade right>
                 <div className='project__content'>
                     <div>
-                        <h1 style={{ lineHeight: '40px' }}> {project.title} </h1>
+                        <h1 style={{ lineHeight: '40px', fontSize: '30px', color: '#272341' }}> {project.title} </h1>
                         <div className='project__tech'>
                             {
                                 project.tech && project.tech.map((tech, i) => <Technology tech={tech} key={i} />)

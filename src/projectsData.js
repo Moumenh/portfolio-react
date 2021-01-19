@@ -136,5 +136,26 @@ export const data = [
                 "ProjectId": 3
             }
         ]
+    },
+    {
+        "title": "COVID-19",
+        "desc": "Basic site to give the user live statistics about corona virus disease, including line chart for daily statistics and bar chart for each country's statistics.",
+        "image": "https://m0moooz-portfolio.netlify.app/assets/CO-19.bc5d1935327be85f46c222fbcb8decce.jpg",
+        "link": "https://m0moooz-covid-19.herokuapp.com/",
+        "git": "https://github.com/Moumenh/CO-19",
+        "logo": "https://mpng.subpng.com/20180406/uyq/kisspng-e-commerce-computer-icons-shopping-cart-software-o-shopping-cart-5ac7d1298aeb00.573537981523044649569.jpg",
+        "demo": "demo",
+        "tech": [
+            {
+                "name": "React",
+                "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png",
+                "ProjectId": 4
+            },
+            {
+                "name": "Material-ui",
+                "icon": "https://material-ui.com/static/logo.png",
+                "ProjectId": 4
+            }
+        ]
     }
 ]
