@@ -9,10 +9,11 @@ const Intro = () => {
 
             <div className='intro__details'>
                 <Fade left duration={1500}>
-                    <h1 className='intro__name'>Hi, my name is <span className='color'>Mo'men Hanbali</span></h1>
+                    <h1 className='intro__name'>Hello✌🏼,</h1>
+                    <h1 className='intro__name2'>my name is <span className='color'>Mo'men Hanbali</span></h1>
                 </Fade>
                 <Fade right delay={700} duration={1500}>
-                    <h1 className='intro__Info'>Full Stack Developer </h1>
+                    <h1 className='intro__Info'><span style={{ fontWeight: '200' }}>A Passionate</span> Full Stack Developer </h1>
                 </Fade>
 
             </div>
