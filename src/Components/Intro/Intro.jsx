@@ -12,7 +12,7 @@ const Intro = () => {
                     <h1 className='intro__name'>Hi, my name is <span className='color'>Mo'men Hanbali</span></h1>
                 </Fade>
                 <Fade right delay={700} duration={1500}>
-                    <h1 className='intro__Info'>I'm A Full Stack Developer </h1>
+                    <h1 className='intro__Info'>Full Stack Developer </h1>
                 </Fade>
 
             </div>
