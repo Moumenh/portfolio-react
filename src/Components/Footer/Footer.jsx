@@ -7,8 +7,8 @@ const Footer = () => {
     return (
         <div className='footer'>
             <div className='footer__icons'>
-                <a target="_blank" href='https://www.linkedin.com/in/moumenh/'> <LinkedInIcon fontSize='large' /> </a>
-                <a target="_blank" href='https://github.com/Moumenh'> <GitHubIcon fontSize='large' /> </a>
+                <a target="_blank" rel="noreferrer" href='https://www.linkedin.com/in/moumenh/'> <LinkedInIcon fontSize='large' /> </a>
+                <a target="_blank" rel="noreferrer" href='https://github.com/Moumenh'> <GitHubIcon fontSize='large' /> </a>
             </div>
             <hr />
         </div>

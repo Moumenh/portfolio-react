@@ -12,7 +12,7 @@ const Contact = () => {
             <Fade bottom>
                 <p className='contact__email'> Mobile : 00970598672727 </p>
                 <p className='contact__email'> mohanbali94@gmail.com </p>
-                <a target="_blank" href="mailto:mohanbali94@gmail.com" className='btn'> Get In Touch </a>
+                <a target="_blank" rel="noreferrer" href="mailto:mohanbali94@gmail.com" className='btn'> Get In Touch </a>
             </Fade>
         </div>
     )
