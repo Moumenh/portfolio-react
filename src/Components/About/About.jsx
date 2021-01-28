@@ -14,7 +14,7 @@ const About = () => {
                     <div className='about__content'>
                         <h4 className='about__disc'> First and foremost, I'm a tech enthusiastic person who love writing code, I have been obsessed with the idea of using software to solve practical problems, Software is a never ending puzzle that I am passionately engaged in solving. </h4>
                         <h4 className='about__disc'> Whenever I have free time, I tend to continue writing code and learn new technologies. </h4>
-                        <a href='https://docdro.id/LR74qe1' target="_blank" rel="noreferrer" className='btn'> View Resume </a>
+                        <a href='https://drive.google.com/file/d/1-ZPbRuytj5q6RE_TNKKD527RrJqjxycB/view' target="_blank" rel="noreferrer" className='btn'> View Resume </a>
                     </div>
                 </Fade>
             </div>
